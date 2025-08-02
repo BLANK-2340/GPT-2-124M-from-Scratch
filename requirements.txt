@@ -1,0 +1,5 @@
+# Minimal dependencies for training a GPT‑2 model from scratch
+torch>=1.13.0
+transformers>=4.32.0
+datasets>=2.14.0
+tqdm>=4.65.0
