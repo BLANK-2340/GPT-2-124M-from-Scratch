@@ -12,5 +12,3 @@ class GPT2Config:
     n_positions: int = 1024 # Maximum sequence length (context window)
     layer_norm_epsilon: float = 1e-5 # Epsilon for layer normalization
     dropout: float = 0.1    # Dropout probability
-
-
